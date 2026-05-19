@@ -1,4 +1,4 @@
-# ## Lumina Game Engine 👋
+# Lumina Game Engine 👋
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-In__Testing-orange?style=for-the-badge&logo=vitest" alt="Status Testing">

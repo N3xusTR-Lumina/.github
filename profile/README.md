@@ -1,7 +1,7 @@
 # Lumina Game Engine 👋
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-In__Testing-orange?style=for-the-badge&logo=vitest" alt="Stopped">
+  <img src="https://img.shields.io/badge/Status-Stopped-red?style=for-the-badge&logo=vitest" alt="Stopped">
   <img src="https://img.shields.io/badge/Powered__By-Three.js_%26_Node.js-blue?style=for-the-badge&logo=three.js" alt="Powered By">
   <img src="https://img.shields.io/badge/Bundler-Vite-646CFF?style=for-the-badge&logo=vite" alt="Vite">
 </p>
